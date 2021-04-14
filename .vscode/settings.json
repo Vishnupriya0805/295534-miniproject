@@ -1,1 +1,23 @@
-
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.languageServer": "Microsoft",
+    "C_Cpp.updateChannel": "Insiders",
+    "editor.fontSize": 18,
+    "jupyter.widgetScriptSources": [
+        "jsdelivr.com",
+        "unpkg.com"
+    ],
+    "jupyter.textOutputLimit": 100000,
+    "jupyter.askForKernelRestart": false,
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ],
+    "git.autofetch": true,
+    "settingsSync.keybindingsPerPlatform": false,
+    "code-runner.saveAllFilesBeforeRun": true,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe"
+}
