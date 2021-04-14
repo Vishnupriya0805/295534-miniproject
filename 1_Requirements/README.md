@@ -26,13 +26,13 @@ only 8 digits.<h4>
 
 <h3>DECIMAL NUMBER SYSTEM<h3>
 
-Decimal number system has only ten (10) digits from 0 to 9. Every number (value) represents 
+<h4>Decimal number system has only ten (10) digits from 0 to 9. Every number (value) represents 
 with 0,1,2,3,4,5,6, 7,8 and 9 in this number system. The base of decimal number system is 10, 
-because it has only 10 digits.
+because it has only 10 digits.<h4>
 
 <h3>HEXADECIMAL NUMBER SYSTEM<h3>
 
-A Hexadecimal number system has sixteen (16) alphanumeric values from 0 to 9 and A to F. 
+<h4>A Hexadecimal number system has sixteen (16) alphanumeric values from 0 to 9 and A to F. 
 Every number (value) represents with 0,1,2,3,4,5,6, 7,8,9,A,B,C,D,E and F in this number 
 system. The base of hexadecimal number system is 16, because it has 16 alphanumeric values. 
-Here A is 10, B is 11, C is 12, D is 14, E is 15 and F is 16.
+Here A is 10, B is 11, C is 12, D is 14, E is 15 and F is 16.<h4>
