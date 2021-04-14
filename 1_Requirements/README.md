@@ -44,5 +44,4 @@ Here A is 10, B is 11, C is 12, D is 14, E is 15 and F is 16.
 |Binary|2|0,1|
 |Octal|8|0,1,2,3,4,5,6,7|
 |Decimal|10|0,1,2,3,4,5,6,7,8,9|
-|Hexadeciaml|16|0,1,2,3,4,5,6,7,8,9,
-A,B,C,D,E,F|
+|Hexadeciaml|16|0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F|
