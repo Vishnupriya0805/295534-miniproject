@@ -45,3 +45,48 @@ Here A is 10, B is 11, C is 12, D is 14, E is 15 and F is 16.
 |Octal|8|0,1,2,3,4,5,6,7|
 |Decimal|10|0,1,2,3,4,5,6,7,8,9|
 |Hexadeciaml|16|0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F|
+
+## SWOT ANALYSIS
+![SWOT analysis photo](swotanalysis.jpg)
+
+### Strengths
+* It is low cost structure.
+* Satisfied users.
+### Weaknesses
+* Hexadecimal conversions should also be added.
+### Oppurtunities
+* Mobile platforms.
+* 
+### Threats
+* More competition.
+* Low profits.
+
+# 4W&#39;s and 1&#39;H
+
+## Who:
+**Who can use this calculator?**
+
+    Any person who want to do the number system conversions.
+     
+## What:
+**What does the project is about ?**
+
+ The project is about the Number system conversion calculator which makes the user to get the calculation done without any time taking.  
+
+## When:
+**When will it get completed ?**
+
+    The Project will be completed by 16th APril 2021.
+
+## Where:
+**Where is the project done ?**
+
+    The Project is implemented on C program platform based on Input/Output.
+
+## How:
+**How to achieve the Target ?**
+
+    To achieve the target
+        1. A good knowledge in file handling in C is a must.
+        2. Basic input output based functions
+        3. Proficiency in Structures and pointers.
