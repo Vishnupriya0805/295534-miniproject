@@ -1,10 +1,10 @@
-   <H1>PROGARMMER CALCULATOR<h1>
+   <H1>PROGARMMER CALCULATOR<H1>
   
-  <h3> INTRODUCTION<h3>
+  <h3> INTRODUCTION
   
- The Programmer Calcualtor is based on the Number system conversions.Number systems are the technique to represent numbers in the computer system architecture, 
+<H4>The Programmer Calcualtor is based on the Number system conversions.Number systems are the technique to represent numbers in the computer system architecture, 
 every value that you are saving or getting into/from computer memory has a defined number 
-system.
+system.<H4>
 <h4>Computer architecture supports following number systems.<h4>
 <h5>* Binary number system
 * Octal number system
