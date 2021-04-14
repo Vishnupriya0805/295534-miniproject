@@ -13,9 +13,9 @@ system.
    
 <h3>BINARY NUMBER SYSTEM<h3>
 
-A Binary number system has only two digits that are 0 and 1. Every number (value) represents 
+<h5>A Binary number system has only two digits that are 0 and 1. Every number (value) represents 
 with 0 and 1 in this number system. The base of binary number system is 2, because it has only 
-two digits.
+two digits.<h5>
 
 <h3>OCTAL NUMBER SYSTEM<h3>
 
