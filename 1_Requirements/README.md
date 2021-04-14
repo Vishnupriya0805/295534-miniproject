@@ -5,23 +5,24 @@
 <H4>The Programmer Calcualtor is based on the Number system conversions.Number systems are the technique to represent numbers in the computer system architecture, 
 every value that you are saving or getting into/from computer memory has a defined number 
 system.<H4>
+   
 <h4>Computer architecture supports following number systems.<h4>
 <h5>* Binary number system
-* Octal number system
-* Decimal number system
-* Hexadecimal (hex) number system<h5>
+<h5>* Octal number system
+<h5>* Decimal number system
+<h5>* Hexadecimal (hex) number system<h5>
    
 <h3>BINARY NUMBER SYSTEM<h3>
 
-<h5>A Binary number system has only two digits that are 0 and 1. Every number (value) represents 
+<h4>A Binary number system has only two digits that are 0 and 1. Every number (value) represents 
 with 0 and 1 in this number system. The base of binary number system is 2, because it has only 
-two digits.<h5>
+two digits.<h4>
 
 <h3>OCTAL NUMBER SYSTEM<h3>
 
-<h6>Octal number system has only eight (8) digits from 0 to 7. Every number (value) represents with 
+<h4>Octal number system has only eight (8) digits from 0 to 7. Every number (value) represents with 
 0,1,2,3,4,5,6 and 7 in this number system. The base of octal number system is 8, because it has 
-only 8 digits.<h6>
+only 8 digits.<h4>
 
 <h3>DECIMAL NUMBER SYSTEM<h3>
 
