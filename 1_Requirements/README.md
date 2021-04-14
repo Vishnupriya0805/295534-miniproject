@@ -6,10 +6,10 @@
 every value that you are saving or getting into/from computer memory has a defined number 
 system.
 <h4>Computer architecture supports following number systems.<h4>
-* Binary number system
+<h5>* Binary number system
 * Octal number system
 * Decimal number system
-* Hexadecimal (hex) number system
+* Hexadecimal (hex) number system<h5>
    
 <h3>BINARY NUMBER SYSTEM<h3>
 
