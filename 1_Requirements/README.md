@@ -56,7 +56,6 @@ Here A is 10, B is 11, C is 12, D is 14, E is 15 and F is 16.
 * Hexadecimal conversions should also be added.
 ### Oppurtunities
 * Mobile platforms.
-* 
 ### Threats
 * More competition.
 * Low profits.
