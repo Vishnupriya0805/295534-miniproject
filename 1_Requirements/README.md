@@ -19,9 +19,9 @@ two digits.
 
 <h3>OCTAL NUMBER SYSTEM<h3>
 
-Octal number system has only eight (8) digits from 0 to 7. Every number (value) represents with 
+<h6>Octal number system has only eight (8) digits from 0 to 7. Every number (value) represents with 
 0,1,2,3,4,5,6 and 7 in this number system. The base of octal number system is 8, because it has 
-only 8 digits.
+only 8 digits.<h6>
 
 <h3>DECIMAL NUMBER SYSTEM<h3>
 
