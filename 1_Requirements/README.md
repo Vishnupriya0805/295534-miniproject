@@ -1,35 +1,35 @@
-   <H1>PROGARMMER CALCULATOR
+   <H1>PROGARMMER CALCULATOR<h1>
   
-  <h3> INTRODUCTION
+  <h3> INTRODUCTION<h3>
   
- <H4>The Programmer Calcualtor is based on the Number system conversions.Number systems are the technique to represent numbers in the computer system architecture, 
+ The Programmer Calcualtor is based on the Number system conversions.Number systems are the technique to represent numbers in the computer system architecture, 
 every value that you are saving or getting into/from computer memory has a defined number 
 system.
-<h4>Computer architecture supports following number systems. 
-<h4>* Binary number system
-<h4>* Octal number system
-<h4>* Decimal number system
-<h4>* Hexadecimal (hex) number system
+<h4>Computer architecture supports following number systems.<h4>
+* Binary number system
+* Octal number system
+* Decimal number system
+* Hexadecimal (hex) number system
    
-<h3>BINARY NUMBER SYSTEM
+<h3>BINARY NUMBER SYSTEM<h3>
 
 A Binary number system has only two digits that are 0 and 1. Every number (value) represents 
 with 0 and 1 in this number system. The base of binary number system is 2, because it has only 
 two digits.
 
-<h3>OCTAL NUMBER SYSTEM
+<h3>OCTAL NUMBER SYSTEM<h3>
 
 Octal number system has only eight (8) digits from 0 to 7. Every number (value) represents with 
 0,1,2,3,4,5,6 and 7 in this number system. The base of octal number system is 8, because it has 
 only 8 digits.
 
-<h3>DECIMAL NUMBER SYSTEM
+<h3>DECIMAL NUMBER SYSTEM<h3>
 
 Decimal number system has only ten (10) digits from 0 to 9. Every number (value) represents 
 with 0,1,2,3,4,5,6, 7,8 and 9 in this number system. The base of decimal number system is 10, 
 because it has only 10 digits.
 
-<h3>HEXADECIMAL NUMBER SYSTEM
+<h3>HEXADECIMAL NUMBER SYSTEM<h3>
 
 A Hexadecimal number system has sixteen (16) alphanumeric values from 0 to 9 and A to F. 
 Every number (value) represents with 0,1,2,3,4,5,6, 7,8,9,A,B,C,D,E and F in this number 
