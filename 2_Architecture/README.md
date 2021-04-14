@@ -2,10 +2,10 @@
 
 The __Use Case Diagram__ of the program is shown below.
 
-![usecasediagram ](images/1.png)
+![usecasediagram](1.png)
 
 ## Low Level Design 
 
 The _basic_ low level __Structural Diagram__ of the porgram is shown below.
 
-![structuraldiagram](images/2.png)
+![structuraldiagram](2.png)
