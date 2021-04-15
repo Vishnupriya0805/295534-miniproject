@@ -10,7 +10,7 @@
 |T_06        | Octal_to_Decimal                                                   | PASS    | PASS       | Caculation|
 
 
-
+![test_cases](Test.PNG)
 
 
 
