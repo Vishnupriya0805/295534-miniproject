@@ -1,4 +1,4 @@
-#include"..\inc\cal.h"
+#include"../inc/cal.h"
 #include<math.h>
 
 long Decimal_to_Binary(int decimalnum)
