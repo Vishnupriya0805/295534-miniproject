@@ -89,3 +89,14 @@ Here A is 10, B is 11, C is 12, D is 14, E is 15 and F is 16.
         1. A good knowledge in file handling in C is a must.
         2. Basic input output based functions
         3. Proficiency in Structures and pointers.
+
+
+# Detail requirements
+## High Level Requirements: 
+| ID | Description | Category | Status | 
+| ----- | ----- | ------- | ---------|
+| 1 | The calculator with the options produced. | Techincal | TBD-S1 | 
+| 2 | Users may choose their preffered conversion.| Techincal | TBD-S1 |
+| 3 | Users can compute their number system conversion calculations. | Techincal | TBD-S1 |
+
+
