@@ -36,7 +36,15 @@ test: $(SRC) test_files\test_main.c  $(UNITY)
 	gcc $^ $(INC) -o $(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC))
 	$(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC))
 
+coverage:${PROJECT_NAME}
+	gcc -fprofile-arcs -ftest-coverage main.c $(SRC) $(INC) -o $(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC))
+	$(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC))
+	gcov -a main.c $(SRC) $(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC))
+	$(RM) *.gcno
+	$(RM) *.gcov
+	$(RM) *.gcda
 
+   
 #test1: test_files\test_main.c $(SRC) unity\unity.c 
 #	gcc test_files\test_main.c $(SRC) unity\unity.c -I $(INC) -I $(UNITY) -o test.exe
 
