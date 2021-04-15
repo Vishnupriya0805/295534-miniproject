@@ -70,7 +70,7 @@ Here A is 10, B is 11, C is 12, D is 14, E is 15 and F is 16.
 ## What:
 **What does the project is about ?**
 
- The project is about the Number system conversion calculator which makes the user to get the calculation done without any time taking.  
+    The project is about the Number system conversion calculator which makes the user to get the calculation done without any time taking.  
 
 ## When:
 **When will it get completed ?**
