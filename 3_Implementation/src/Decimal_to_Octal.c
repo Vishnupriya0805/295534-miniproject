@@ -1,4 +1,4 @@
-#include"..\inc\cal.h"
+#include"../inc/cal.h"
 #include<math.h>
 
 int Decimal_to_Octal(int decimalnum)
