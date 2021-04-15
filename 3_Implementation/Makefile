@@ -17,14 +17,14 @@ else
 endif 
 
 
-SRC =  src\Binary_to_Decimal.c src\Binary_to_Octal.c src\Decimal_to_Binary.c src\Decimal_to_Octal.c src\Octal_to_Binary.c src\Octal_to_Decimal.c
+SRC =  src/Binary_to_Decimal.c src/Binary_to_Octal.c src/Decimal_to_Binary.c src/Decimal_to_Octal.c src/Octal_to_Binary.c src/Octal_to_Decimal.c
 
 INC = -Iinc\
 -Iunity
 
 UNITY = unity/unity.c 
 
-testest_filest = test\test_main.c
+testest_filest = test/test_main.c
 
 pro: main.c $(SRC) 
 	gcc main.c $(SRC) -I $(INC) -o pro.exe
@@ -32,7 +32,7 @@ pro: main.c $(SRC)
 run: pro.exe
 	./pro.exe
 
-test: $(SRC) test_files\test_main.c  $(UNITY)
+test: $(SRC) test_files/test_main.c  $(UNITY)
 	gcc $^ $(INC) -o $(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC))
 	$(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC))
 
