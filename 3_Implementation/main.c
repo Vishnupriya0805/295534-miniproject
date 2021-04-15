@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include"..\inc\cal.h"
+#include"../inc/cal.h"
 #include<math.h>
 
 
